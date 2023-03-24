@@ -1,5 +1,5 @@
 # BasicThemer5
-The most lightweight basic themer yet. Not only that, but also gets rid of any quick white flash that you might see when opening a program with BT2 or 3 as well as (as far as I know) seeing the DWM-composited theme flash when opening a program.
+The most lightweight basic themer yet.
 
 Almost all credit for this project goes to this guy https://github.com/spddl/disableDWMactivitys all I did was compile it so that there isn't a console window. It runs nicely in the background.
 
